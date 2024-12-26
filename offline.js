@@ -1,0 +1,32 @@
+﻿{
+	"version": 1735186667,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/ПлиточныйФон.png",
+		"images/ПлиточныйФон3.png",
+		"images/Спрайт-sheet0.png",
+		"images/Спрайт2-sheet0.png",
+		"images/Спрайт3-sheet0.png",
+		"images/Спрайт4-sheet0.png",
+		"images/Спрайт5-sheet0.png",
+		"images/Спрайт6-sheet0.png",
+		"images/Спрайт7-sheet0.png",
+		"images/ПлиточныйФон5.png",
+		"images/Спрайт13-sheet0.png",
+		"images/Спрайт12-sheet0.png",
+		"images/Спрайт16-sheet0.png",
+		"images/Спрайт15-sheet0.png",
+		"images/Спрайт20-sheet0.png",
+		"images/Спрайт21-sheet0.png",
+		"images/Спрайт23-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
